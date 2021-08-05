@@ -12,6 +12,8 @@ form input{-webkit-appearance:none;-moz-appearance:none;appearance:none;outline:
 form input:hover{background-color:rgba(0,191,255,.4)}
 form input:focus{background-color:
 #FFB6C1;width:230px;color:#333}
+/*
 form button{-webkit-appearance:none;-moz-appearance:none;appearance:none;outline:0;background-color:
 #FFF0F5;border:0;padding:10px 15px;color:#333;border-radius:3px;width:200px;cursor:pointer;font-family:microsoft yahei,Arial,sans-serif;font-size:16px;font-weight:700;-webkit-transition-duration:.25s;transition-duration:.25s}
 form button:hover{background-color:#DB7093}
+*/
